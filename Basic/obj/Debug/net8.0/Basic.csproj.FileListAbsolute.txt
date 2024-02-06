@@ -1,0 +1,14 @@
+D:\เรียน\c#\github\Basic\bin\Debug\net8.0\Basic.exe
+D:\เรียน\c#\github\Basic\bin\Debug\net8.0\Basic.deps.json
+D:\เรียน\c#\github\Basic\bin\Debug\net8.0\Basic.runtimeconfig.json
+D:\เรียน\c#\github\Basic\bin\Debug\net8.0\Basic.dll
+D:\เรียน\c#\github\Basic\bin\Debug\net8.0\Basic.pdb
+D:\เรียน\c#\github\Basic\obj\Debug\net8.0\Basic.GeneratedMSBuildEditorConfig.editorconfig
+D:\เรียน\c#\github\Basic\obj\Debug\net8.0\Basic.AssemblyInfoInputs.cache
+D:\เรียน\c#\github\Basic\obj\Debug\net8.0\Basic.AssemblyInfo.cs
+D:\เรียน\c#\github\Basic\obj\Debug\net8.0\Basic.csproj.CoreCompileInputs.cache
+D:\เรียน\c#\github\Basic\obj\Debug\net8.0\Basic.dll
+D:\เรียน\c#\github\Basic\obj\Debug\net8.0\refint\Basic.dll
+D:\เรียน\c#\github\Basic\obj\Debug\net8.0\Basic.pdb
+D:\เรียน\c#\github\Basic\obj\Debug\net8.0\Basic.genruntimeconfig.cache
+D:\เรียน\c#\github\Basic\obj\Debug\net8.0\ref\Basic.dll
