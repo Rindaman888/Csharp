@@ -12,3 +12,4 @@ D:\เรียน\c#\github\Basic\obj\Debug\net8.0\refint\Basic.dll
 D:\เรียน\c#\github\Basic\obj\Debug\net8.0\Basic.pdb
 D:\เรียน\c#\github\Basic\obj\Debug\net8.0\Basic.genruntimeconfig.cache
 D:\เรียน\c#\github\Basic\obj\Debug\net8.0\ref\Basic.dll
+D:\เรียน\c#\github\Basic\obj\Debug\net8.0\Basic.sourcelink.json
